@@ -14,7 +14,7 @@
                     Welcome to Smoke <br>
                     & Mirrors. Your one <br>
                     location for advice.</h2>
-                <button class="bg-teal hover:bg-white text-sm md:text-base border border-white py-2 px-6 lg:py-3 lg:px-8">Stagging version</button>
+                <button class="bg-teal hover:bg-white text-sm md:text-base border border-white py-2 px-6 lg:py-3 lg:px-8">Main version</button>
             </div>
         </div>
     </header>
